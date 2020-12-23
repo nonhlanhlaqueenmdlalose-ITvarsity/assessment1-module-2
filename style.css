@@ -13,7 +13,7 @@ body{
     z-index: 500;
     width: 100%;
     height: 80px;
-    background-image: url(image/wood.jpg);
+    background-image: url(images/wood.png);
     background-repeat: repeat-x;
 }
 
